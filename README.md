@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Grit
 ====
 
@@ -234,3 +235,4 @@ Copyright
 ---------
 
 Copyright (c) 2008 Tom Preston-Werner. See LICENSE for details.
+
